@@ -185,6 +185,15 @@ Global measurements covering DNS, IPv6, and DNSSEC behavior.
 </details>
 
 <details>
+  <summary>Check My DNS</summary>
+
+Web-based DNS testing and diagnostics service operated by [DNS-OARC](https://www.dns-oarc.net/).
+
+[Check My DNS](https://cmdns2.dev.dns-oarc.net/)
+</details>
+
+
+<details>
   <summary>Check Open Resolver</summary>
 
 Tests whether a DNS server is configured as an open resolver.
