@@ -506,6 +506,14 @@ Data analysis and decoding tool.
 </details>
 
 <details>
+  <summary>DNS Profile Generator</summary>
+
+Generates Apple configuration profiles (`.mobileconfig`) to enable encrypted DNS
+
+[DNS Profile Generator](https://upset.dev/dns-profile-generator/)
+</details>
+
+<details>
   <summary>Down for Everyone or Just Me</summary>
 
 Checks website availability from multiple locations.
