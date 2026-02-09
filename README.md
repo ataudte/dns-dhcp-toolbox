@@ -242,6 +242,14 @@ DNS reconnaissance and infrastructure discovery tool.
 </details>
 
 <details>
+  <summary>DNSDiag</summary>
+
+DNS measurement, troubleshooting, and security auditing toolset (dnsping, dnstraceroute, dnseval).
+
+[DNSDiag](https://dnsdiag.org/)
+</details>
+
+<details>
   <summary>DNS Inspect</summary>
 
 DNS configuration inspection and analysis tool.
