@@ -366,6 +366,22 @@ Analyzes DNSSEC trust chains and validation behavior.
 </details>
 
 <details>
+  <summary>DNSSEC Deployment Report</summary>
+
+DNSSEC deployment statistics by TLD (signed domains, coverage, and related deployment data).
+
+[DNSSEC Deployment Report](https://rick.eng.br/dnssecstat/)
+</details>
+
+<details>
+  <summary>DNSSEC Deployment Statistics</summary>
+
+Results of continuous DNS scanning to measure DNSSEC and DANE growth over time, with trend graphs and per-TLD views.
+
+[DNSSEC Deployment Statistics](https://stats.dnssec-tools.org/)
+</details>
+
+<details>
   <summary>DNSSEC Resolver Test</summary>
 
 Tests DNSSEC validation behavior of resolvers.
@@ -403,6 +419,14 @@ Advanced DNS and DNSSEC visualization and analysis platform.
 Tests authoritative servers for EDNS behavior and compliance.
 
 [EDNS Compliance Tester](https://ednscomp.isc.org/ednscomp/)
+</details>
+
+<details>
+  <summary>ICANN ITHI Metric M11</summary>
+
+ICANN ITHI metric tracking DNSSEC deployment in TLDs and SLDs, including DNSSEC algorithm usage breakdown.
+
+[ICANN ITHI Metric M11](https://ithi.research.icann.org/graph-m11.html)
 </details>
 
 ---
