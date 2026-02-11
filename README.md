@@ -165,6 +165,14 @@ Visualization of reverse DNS delegation data.
 </details>
 
 <details>
+  <summary>State of DNSSEC</summary>
+
+Annual report on DNSSEC adoption, based on large-scale domain analysis and breakdowns by geography and registrars.
+
+[State of DNSSEC](https://state-of-dnssec.whisper.security/)
+</details>
+
+<details>
   <summary>Zytrax DNS Book</summary>
 
 Vendor-neutral, in-depth reference on DNS concepts and operation.
