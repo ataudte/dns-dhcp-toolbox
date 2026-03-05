@@ -366,6 +366,14 @@ Analyzes DNSSEC trust chains and validation behavior.
 </details>
 
 <details>
+  <summary>DNSSEC Deployment Maps</summary>
+
+Global DNSSEC deployment maps and TLD deployment status.
+
+[DNSSEC Deployment Maps](https://maps.dnssec.gmu.edu/)
+</details>
+
+<details>
   <summary>DNSSEC Deployment Report</summary>
 
 DNSSEC deployment statistics by TLD (signed domains, coverage, and related deployment data).
