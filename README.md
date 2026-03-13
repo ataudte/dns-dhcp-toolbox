@@ -37,7 +37,7 @@ ISC tool to migrate configurations from ISC DHCP to Kea DHCP.
 ## DNS References and Tooling
 
 <details>
-  <summary>ICANN Acronyms and Terms</summary>
+  <summary>Acronyms and Terms</summary>
 
 Glossary of ICANN-related terminology and abbreviations.
 
@@ -74,6 +74,14 @@ Overview of DNS abuse techniques and mitigation approaches.
 List of public DNS resolvers supporting encrypted DNS.
 
 [DNS Privacy Public Resolvers](https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Public+Resolvers)
+</details>
+
+<details>
+  <summary>DNS-related RFCs</summary>
+
+Informal list of RFCs that relate to the DNS.
+
+[DNS-related RFCs](https://rfc-annotations.research.icann.org/)
 </details>
 
 <details>
