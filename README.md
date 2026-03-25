@@ -250,6 +250,14 @@ Checks DNS propagation from multiple locations worldwide.
 </details>
 
 <details>
+  <summary>DNS Leak Test</summary>
+
+Checks whether your DNS queries are leaking to unintended resolvers.
+
+[DNS Leak Test](https://www.dnsleaktest.com/)
+</details>
+
+<details>
   <summary>DNS Dumpster</summary>
 
 DNS reconnaissance and infrastructure discovery tool.
