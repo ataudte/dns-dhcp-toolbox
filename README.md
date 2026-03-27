@@ -258,6 +258,14 @@ Checks whether your DNS queries are leaking to unintended resolvers.
 </details>
 
 <details>
+  <summary>What Is My DNS Server?</summary>
+
+Checks which DNS servers your device is actually using and shows the server owner and country.
+
+[What Is My DNS Server?](https://www.top10vpn.com/tools/what-is-my-dns-server/)
+</details>
+
+<details>
   <summary>DNS Dumpster</summary>
 
 DNS reconnaissance and infrastructure discovery tool.
