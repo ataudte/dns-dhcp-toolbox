@@ -77,6 +77,14 @@ List of public DNS resolvers supporting encrypted DNS.
 </details>
 
 <details>
+  <summary>DNS Resolver Guide</summary>
+
+Interactive guide for choosing a public DNS resolver based on privacy, filtering, DNSSEC, IPv6, encrypted DNS transports, jurisdiction, logging, ECS behavior, and latency.
+
+[DNS Resolver Guide](https://evilbit.de/dns-resolver-guide.html)
+</details>
+
+<details>
   <summary>DNS-related RFCs</summary>
 
 Informal list of RFCs that relate to the DNS.
