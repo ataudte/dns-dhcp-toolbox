@@ -298,6 +298,14 @@ DNS configuration inspection and analysis tool.
 </details>
 
 <details>
+  <summary>DNS Scanner</summary>
+
+Comprehensive DNS server health, protocol compliance, DNSSEC, encrypted transport, and security assessment tool.
+
+[DNS Scanner](https://dnsscanner.net/)
+</details>
+
+<details>
   <summary>DNS Speed Test</summary>
 
 Compares performance of DNS resolvers.
